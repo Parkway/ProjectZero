@@ -29,3 +29,5 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "Open personal app", Toast.LENGTH_LONG).show();
     }
 }
+// GitHub Test
+
